@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a 4th-year CS student at the University of British Columbia (UBC). In the past 4 years, I developed a strong interest in machine learning, web development, and more recently, game development! I love building solutions to everyday problems, building fun little projects, and learning new technologies. I enjoy taking care of plants, playing video games, and playing volleyball in my free time, although I'm not all that great at any of these activities 😅. 
+I'm a 4th-year CS student at the University of British Columbia (UBC). In the past 4 years, I developed a strong interest in machine learning, web development, and more recently, game development! I love building solutions to everyday problems, building fun little projects, and learning new technologies. I enjoy taking care of plants, playing video games, and playing volleyball in my free time, although I'm not all that great at any of these activities just yet 😅. 
 
 ## Skills ✨
 **Languages:** Python, C++, OpenGL, JavaScript, TypeScript, C#
