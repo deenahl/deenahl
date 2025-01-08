@@ -25,10 +25,8 @@ I'm a 4th-year CS student at the University of British Columbia (UBC). In the pa
 **Tools:** Git, Docker. Agile Methodologies
 
 ## Completed Projects 👩‍💻
-<img src="https://github.com/deenahl/deenahl/blob/main/gen.png" width="20" height="20"> **Path-Of-Gen:** Welcome to Path-Of-Gen, where you play as a pathogen named Gen. Traverse through the challenges of each organ and make your way to the brain to choose your own final path. This project was completed for a course with 5 other classmates. Unfortunately, the original Github repo is under the UBC Organization but the game can be found and downloaded through this link:  [Google Drive Link](https://drive.google.com/drive/folders/1sJcZRBS94dM34GiZvK3UosdZdxuKl-YO)
+<img src="https://github.com/deenahl/deenahl/blob/main/gen.png" width="20" height="20"> **Path-Of-Gen:** Welcome to Path-Of-Gen, where you play as a pathogen named Gen. Traverse through the challenges of each organ and make your way to the brain to choose your own final path. This project was completed for a course with 5 other classmates. Unfortunately, the original Github repo is under the UBC Organization but the game can be found and downloaded through this link:  [Google Drive Link](https://drive.google.com/drive/folders/1sJcZRBS94dM34GiZvK3UosdZdxuKl-YO) *(Message me on LinkedIn if you want the cheat codes)*
 - Languages: C++, OpenGL
-  
-*Message me on LinkedIn if you want the cheat codes*
 
 **Heart Disease Prediction:** Created a data science model for predicting heart disease in patients for an Introductory Data Science Course. Techniques such as problem definition, exploratory data analysis, and model evaluation were used to create a model with 0.74 accuracy and 0.76 recall. [GitHub Repo](https://github.com/deenahl/dsci-100-2024s-project)
 - Languages: R
