@@ -46,3 +46,6 @@ I'm a 4th-year CS student at the University of British Columbia (UBC). In the pa
 - 🏂 I've been skateboarding for over a decade and recently started snowboarding 
 - 🤹‍♀️ I learned how to juggle for a school fair
 
+## Let's Connect:
+- **LinkedIn:** [Deenah Laron](linkedin.com/in/deenah-laron)
+
